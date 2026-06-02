@@ -10,5 +10,6 @@ namespace TrixCompareDb.Data
         {
         }
         public DbSet<Product> Products { get; set; }
+        
     }
 }
